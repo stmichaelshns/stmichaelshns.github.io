@@ -16,15 +16,19 @@ title: Home
 </div>
 
 
-## Latest Update
+<h2>Member Notes</h2>
 
 <div class="update-card">
 
- - The Holy Name Society website is now available as a central place for members to find current information, documents, and useful links.
- - Rectory move is schedules for October 3rd.
- - **Meeting Minutes** are available through the Resources page.
+  <ul class="member-notes">
+    <li>Check the <strong>Holy Name Calendar</strong> for upcoming meetings and events.</li>
+    <li>The <strong>Current To-Do List</strong> contains things that need attention.</li>
+    <li><strong>Meeting Minutes</strong> are available through the Resources page.</li>
+    <li>Check this website periodically for important information and reminders.</li>
+  </ul>
 
 </div>
+
 
 
 <div class="home-note">
