@@ -60,9 +60,10 @@ title: Resources
       Visit the official parish website.
     </p>
 
-    <p>
-      <em>Parish website link will be added here.</em>
-    </p>
+    <a class="resource-link"
+       href="https://stm-nd.sspx.org/en">
+      St. Michael’s Roman Catholic Church
+    </a>
 
   </div>
 
