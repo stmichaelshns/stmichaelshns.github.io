@@ -45,9 +45,10 @@ title: Resources
       View past and current Holy Name Society meeting minutes.
     </p>
 
-    <p>
-      <em>Meeting minutes link will be added here.</em>
-    </p>
+    <a class="resource-link"
+       href="https://drive.google.com/drive/folders/1ct06x6EW1U0AjJVDee-_Z9qsDkLzUcq_?usp=sharing">
+      Open Meeting Minutes
+    </a>
 
   </div>
 
