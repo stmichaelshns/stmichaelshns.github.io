@@ -317,6 +317,140 @@ hr {
 
   .site-nav a {
     text-align: center;
+
+/* =========================================================
+   Homepage
+   ========================================================= */
+
+.welcome {
+  max-width: 760px;
+  margin-bottom: 55px;
+}
+
+.welcome .eyebrow {
+  color: var(--gold);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  margin-bottom: 12px;
+}
+
+.welcome h1 {
+  font-size: clamp(2.4rem, 7vw, 4rem);
+  margin: 0 0 18px;
+}
+
+.welcome .intro {
+  color: var(--muted);
+  font-size: 1.15rem;
+  line-height: 1.75;
+  max-width: 680px;
+}
+
+
+/* ---------- Quick Links ---------- */
+
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 25px 0 55px;
+}
+
+.link-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+
+  padding: 20px;
+  min-height: 88px;
+
+  color: var(--text);
+  text-decoration: none;
+
+  box-shadow: var(--shadow);
+}
+
+.link-card:hover {
+  border-color: var(--gold);
+  color: var(--text);
+}
+
+.link-icon {
+  width: 42px;
+  flex: 0 0 42px;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.link-card strong {
+  display: block;
+  color: var(--navy);
+  font-size: 1rem;
+}
+
+.link-card small {
+  display: block;
+  color: var(--muted);
+  margin-top: 3px;
+  font-size: 0.88rem;
+}
+
+
+/* ---------- Latest Update ---------- */
+
+.update-card {
+  background: var(--white);
+  border-left: 4px solid var(--gold);
+  border-radius: 0 8px 8px 0;
+  padding: 22px 25px;
+  margin: 25px 0 55px;
+  box-shadow: var(--shadow);
+}
+
+.update-card strong {
+  color: var(--navy);
+}
+
+
+/* ---------- Homepage Note ---------- */
+
+.home-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding-top: 10px;
+}
+
+
+/* ---------- Mobile Homepage ---------- */
+
+@media (max-width: 650px) {
+
+  .welcome {
+    margin-bottom: 40px;
+  }
+
+  .welcome .intro {
+    font-size: 1.05rem;
+  }
+
+  .link-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    margin-bottom: 45px;
+  }
+
+  .link-card {
+    min-height: 82px;
+    padding: 18px;
+  }
+
+}
+
     background: rgba(255, 255, 255, 0.07);
   }
 
