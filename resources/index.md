@@ -3,33 +3,67 @@ layout: default
 title: Resources
 ---
 
-These links provide the current information and documents
-for the St. Michael's Holy Name Society.
+<div class="resource-list">
+
+  <div class="resource">
+
+    <h2>Google Calendar</h2>
+
+    <p>
+      View upcoming meetings and events.
+    </p>
+
+    <a class="resource-link"
+       href="https://calendar.google.com/calendar/u/0?cid=aG5zLnNtY2MuYm5kQGdtYWlsLmNvbQ">
+      Open Google Calendar
+    </a>
+
+  </div>
 
 
-## Google Calendar
+  <div class="resource">
 
-View upcoming meetings and events.
+    <h2>Current To-Do List</h2>
 
-[Open Google Calendar](https://calendar.google.com/calendar/u/0?cid=aG5zLnNtY2MuYm5kQGdtYWlsLmNvbQ)
+    <p>
+      View the current list of things that need to be done.
+    </p>
 
+    <a class="resource-link"
+       href="https://docs.google.com/document/d/18r11GUWsFE_VX76krpKRhN_Z7GW0jZB9wBJkwUQ-7uM/edit?usp=sharing">
+      Open To-Do List
+    </a>
 
-## Current To-Do List
-
-View the current list of things that need to be done.
-
-[Open To-Do List](https://docs.google.com/document/d/18r11GUWsFE_VX76krpKRhN_Z7GW0jZB9wBJkwUQ-7uM/edit?usp=sharing)
-
-
-## Meeting Minutes
-
-View past and current Holy Name Society meeting minutes.
-
-**Meeting minutes link will be added here.**
+  </div>
 
 
-## St. Michael's Roman Catholic Church
+  <div class="resource">
 
-Visit the official parish website.
+    <h2>Meeting Minutes</h2>
 
-**Parish website link will be added here.**
+    <p>
+      View past and current Holy Name Society meeting minutes.
+    </p>
+
+    <p>
+      <em>Meeting minutes link will be added here.</em>
+    </p>
+
+  </div>
+
+
+  <div class="resource">
+
+    <h2>St. Michael's Roman Catholic Church</h2>
+
+    <p>
+      Visit the official parish website.
+    </p>
+
+    <p>
+      <em>Parish website link will be added here.</em>
+    </p>
+
+  </div>
+
+</div>
