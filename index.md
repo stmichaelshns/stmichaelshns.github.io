@@ -9,9 +9,8 @@ title: Home
   <h1>Holy Name Society</h1>
 
   <p class="intro">
-    Welcome to the online home of the St. Michael's Holy Name Society.
-    This site provides members with a simple place to find current
-    information, documents, and useful links.
+    In Nomine Jesu omne genu flectatur caelestium terrestrium, et infernorum:
+    et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris. Phil 2, 10-11
   </p>
 </div>
 
@@ -21,7 +20,7 @@ title: Home
 <div class="update-card">
 
   <ul class="member-notes">
-    <li>The Holy Name Society website is now available as a central place for members to find current information, documents, and useful links.</li>
+    <li>St. Michael's Holy Name Society website is now available as a central place for members to find current information, documents, and useful links.</li>
     <li>Rectory move is schedules for October 3rd.</li>
     <li>Meeting Minutes are available through the Resources page.</li>
   </ul>
