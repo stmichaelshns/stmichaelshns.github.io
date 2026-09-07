@@ -462,3 +462,10 @@ a:focus-visible {
   }
 
 }
+
+/* ---------- Active Navigation ---------- */
+
+.site-nav a.active {
+  background: rgba(255, 255, 255, 0.16);
+  color: var(--white);
+}
