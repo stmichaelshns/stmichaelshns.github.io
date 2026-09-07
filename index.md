@@ -32,6 +32,6 @@ title: Home
 
 <div class="home-note">
 
-This website is a resource for members of the St. Michael's Holy Name Society.
+
 
 </div>
