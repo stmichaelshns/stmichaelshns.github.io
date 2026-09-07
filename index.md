@@ -20,12 +20,9 @@ title: Home
 
 <div class="update-card">
 
-**September 2026**
-
-The Holy Name Society website is now available as a central place
-for members to find current information, documents, and useful links.
-
-Please use the Resources page to find the information you need.
+ - The Holy Name Society website is now available as a central place for members to find current information, documents, and useful links.
+ - Rectory move is schedules for October 3rd.
+ - **Meeting Minutes** are available through the Resources page.
 
 </div>
 
