@@ -30,7 +30,7 @@ title: Resources
     </p>
 
     <a class="resource-link"
-       href="https://docs.google.com/document/d/18r11GUWsFE_VX76krpKRhN_Z7GW0jZB9wBJkwUQ-7uM/edit?usp=sharing">
+       href="https://docs.google.com/document/d/15QjVWBIiyIO5pSYeh4NrfzubIieDIuCC_v8rLUgVIvY/edit?usp=sharing">
       Open To-Do List
     </a>
 
