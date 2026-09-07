@@ -57,7 +57,7 @@ title: Resources
     <h2>St. Michael's Roman Catholic Church</h2>
 
     <p>
-      Visit the official parish website.
+      Visit the official chapel website.
     </p>
 
     <a class="resource-link"
