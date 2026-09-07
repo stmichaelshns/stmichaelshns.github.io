@@ -455,3 +455,53 @@ hr {
   }
 
 }
+
+
+/* =========================================================
+   Resources Page
+   ========================================================= */
+
+.resource-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.resource {
+  padding: 28px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.resource:first-child {
+  padding-top: 0;
+}
+
+.resource:last-child {
+  border-bottom: none;
+}
+
+.resource h2 {
+  margin: 0 0 8px;
+  font-size: 1.45rem;
+}
+
+.resource p {
+  color: var(--muted);
+  margin-bottom: 12px;
+}
+
+.resource-link {
+  display: inline-block;
+  font-weight: 700;
+  color: var(--navy);
+  text-decoration: none;
+  padding: 7px 0;
+}
+
+.resource-link::after {
+  content: " →";
+  color: var(--gold);
+}
+
+.resource-link:hover {
+  color: var(--navy-dark);
+}
