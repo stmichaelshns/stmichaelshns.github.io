@@ -21,10 +21,9 @@ title: Home
 <div class="update-card">
 
   <ul class="member-notes">
-    <li>Check the <strong>Holy Name Calendar</strong> for upcoming meetings and events.</li>
-    <li>The <strong>Current To-Do List</strong> contains things that need attention.</li>
-    <li><strong>Meeting Minutes</strong> are available through the Resources page.</li>
-    <li>Check this website periodically for important information and reminders.</li>
+    <li>The Holy Name Society website is now available as a central place for members to find current information, documents, and useful links.</li>
+    <li>Rectory move is schedules for October 3rd.</li>
+    <li>**Meeting Minutes** are available through the Resources page.</li>
   </ul>
 
 </div>
