@@ -7,7 +7,7 @@ title: Resources
 
   <div class="resource">
 
-    <h2>Google Calendar</h2>
+    <h2>Holy Name Calendar</h2>
 
     <p>
       View upcoming meetings and events.
@@ -15,7 +15,7 @@ title: Resources
 
     <a class="resource-link"
        href="https://calendar.google.com/calendar/u/0?cid=aG5zLnNtY2MuYm5kQGdtYWlsLmNvbQ">
-      Open Google Calendar
+      Open Holy Name Calendar
     </a>
 
   </div>
