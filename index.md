@@ -10,7 +10,8 @@ title: Home
 
   <p class="intro">
     In Nomine Jesu omne genu flectatur caelestium terrestrium, et infernorum:
-    et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris. Phil 2, 10-11
+    et omnis lingua confiteatur, quia Dominus Jesus Christus
+    in gloria est Dei Patris. Phil 2, 10-11
   </p>
 </div>
 
