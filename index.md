@@ -9,9 +9,9 @@ title: Home
   <h1>Holy Name Society</h1>
 
   <p class="intro">
-    In Nomine Jesu omne genu flectatur caelestium terrestrium, et infernorum:
-    et omnis lingua confiteatur, quia Dominus Jesus Christus
-    in gloria est Dei Patris. Phil 2, 10-11
+    𝕴𝖓 𝕹𝖔𝖒𝖎𝖓𝖊 𝕵𝖊𝖘𝖚 𝖔𝖒𝖓𝖊 𝖌𝖊𝖓𝖚 𝖋𝖑𝖊𝖈𝖙𝖆𝖙𝖚𝖗 𝖈𝖆𝖊𝖑𝖊𝖘𝖙𝖎𝖚𝖒 𝖙𝖊𝖗𝖗𝖊𝖘𝖙𝖗𝖎𝖚𝖒, 𝖊𝖙 𝖎𝖓𝖋𝖊𝖗𝖓𝖔𝖗𝖚𝖒:
+    𝖊𝖙 𝖔𝖒𝖓𝖎𝖘 𝖑𝖎𝖓𝖌𝖚𝖆 𝖈𝖔𝖓𝖋𝖎𝖙𝖊𝖆𝖙𝖚𝖗, 𝖖𝖚𝖎𝖆 𝕯𝖔𝖒𝖎𝖓𝖚𝖘 𝕵𝖊𝖘𝖚𝖘 𝕮𝖍𝖗𝖎𝖘𝖙𝖚𝖘
+    𝖎𝖓 𝖌𝖑𝖔𝖗𝖎𝖆 𝖊𝖘𝖙 𝕯𝖊𝖎 𝕻𝖆𝖙𝖗𝖎𝖘. 𝕻𝖍𝖎𝖑 𝟚, 𝟙𝟘-𝟙𝟙
   </p>
 </div>
 
