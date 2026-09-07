@@ -1,10 +1,12 @@
 title: St. Michael's Holy Name Society
-description: Information and resources for the St. Michael's Holy Name Society
+description: Information and resources for members of the St. Michael's Holy Name Society
+
 url: "https://stmichaelshns.github.io"
 
 theme: null
-
 markdown: kramdown
+
+last_updated: September 2026
 
 plugins:
   - jekyll-feed
