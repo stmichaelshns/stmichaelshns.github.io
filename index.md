@@ -23,7 +23,7 @@ title: Home
   <ul class="member-notes">
     <li>The Holy Name Society website is now available as a central place for members to find current information, documents, and useful links.</li>
     <li>Rectory move is schedules for October 3rd.</li>
-    <li>**Meeting Minutes** are available through the Resources page.</li>
+    <li>Meeting Minutes are available through the Resources page.</li>
   </ul>
 
 </div>
